@@ -1,0 +1,161 @@
+:root {
+  --black: #000000;
+  --black-squeeze: #f6fafb;
+  --denim-blue: #234cad;
+  --white: #ffffff;
+  --zircon: #f2f6ff;
+
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 12px;
+  --font-size-xl: 22px;
+  --font-size-xs: 10px;
+  --font-size-xxl: 25px;
+  --font-size-xxxl: 48px;
+
+  --font-family-basic: "Basic", Helvetica;
+  --font-family-nunito: "Nunito", Helvetica;
+}
+.nunito-normal-denim-blue-12px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-bold-denim-blue-16px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-normal-denim-blue-18px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-bold-denim-blue-10px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-bold-denim-blue-18px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-normal-denim-blue-10px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-bold-denim-blue-48px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-normal-denim-blue-16px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-bold-black-squeeze-6px {
+  color: var(--black-squeeze);
+  font-family: var(--font-family-nunito);
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-bold-denim-blue-30px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-bold-denim-blue-22px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-semi-bold-denim-blue-18px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.nunito-normal-denim-blue-25px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-bold-denim-blue-56px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-normal-denim-blue-20px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-bold-denim-blue-25px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-semi-bold-denim-blue-30px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.nunito-normal-denim-blue-22px {
+  color: var(--denim-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
